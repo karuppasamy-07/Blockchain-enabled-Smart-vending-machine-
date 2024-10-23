@@ -1,0 +1,28 @@
+/* src/pages/AuthorizedAccess.css */
+.access-container {
+    max-width: 400px;
+    margin: 80px auto;
+    padding: 30px;
+    border: 1px solid #e1e4e8;
+    border-radius: 8px;
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.access-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #2ea44f;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+.access-btn:hover {
+    background-color: #22863a;
+}

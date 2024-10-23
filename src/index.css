@@ -1,0 +1,44 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set body styles */
+body {
+  font-family: 'Arial', sans-serif; /* Use a clean sans-serif font */
+  line-height: 1.6; /* Improve readability */
+  background-color: #f8f9fa; /* Light background color for the whole app */
+  color: #343a40; /* Darker text color */
+}
+
+/* Add a consistent container for the main content */
+.container {
+  max-width: 1200px; /* Limit the max width for readability */
+  margin: 0 auto; /* Center the container */
+  padding: 20px; /* Add padding */
+}
+
+/* Button styles */
+button {
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+/* Add a footer style if needed */
+footer {
+  background-color: #343a40; /* Dark footer */
+  color: white;
+  text-align: center;
+  padding: 10px 0; /* Add some padding */
+  position: relative; /* Make position relative */
+  bottom: 0; /* Position at the bottom */
+  width: 100%; /* Full width */
+}
+
+/* Responsive media query */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px; /* Slightly smaller font on smaller screens */
+  }
+}

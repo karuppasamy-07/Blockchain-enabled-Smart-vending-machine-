@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blockchain-enabled-Smart-vending-machine/static/css/main.d1208d0b.css",
+    "main.js": "/Blockchain-enabled-Smart-vending-machine/static/js/main.43d128ac.js",
+    "static/js/488.c762634e.chunk.js": "/Blockchain-enabled-Smart-vending-machine/static/js/488.c762634e.chunk.js",
+    "static/media/logo.png": "/Blockchain-enabled-Smart-vending-machine/static/media/logo.218fac0e2d59d37167b9.png",
+    "index.html": "/Blockchain-enabled-Smart-vending-machine/index.html",
+    "main.d1208d0b.css.map": "/Blockchain-enabled-Smart-vending-machine/static/css/main.d1208d0b.css.map",
+    "main.43d128ac.js.map": "/Blockchain-enabled-Smart-vending-machine/static/js/main.43d128ac.js.map",
+    "488.c762634e.chunk.js.map": "/Blockchain-enabled-Smart-vending-machine/static/js/488.c762634e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1208d0b.css",
+    "static/js/main.43d128ac.js"
+  ]
+}

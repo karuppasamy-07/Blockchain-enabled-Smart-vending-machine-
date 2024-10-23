@@ -1,0 +1,44 @@
+.medicine-container {
+    max-width: 800px;
+    margin: 20px auto; /* Adjusted margin for spacing */
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .medicine-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .medicine-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Centering items vertically */
+    padding: 15px; /* Increased padding */
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Rounded corners */
+    transition: box-shadow 0.3s; /* Transition for hover effect */
+  }
+  
+  .medicine-item:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow on hover */
+  }
+  
+  .select-button {
+    padding: 8px 15px; /* Padding for button */
+    background-color: #3498db; /* Button color */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Transition for hover effect */
+  }
+  
+  .select-button:hover {
+    background-color: #2980b9; /* Darker shade on hover */
+  }
+  
