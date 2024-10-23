@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vending-machine/static/css/main.d1208d0b.css",
+    "main.js": "/vending-machine/static/js/main.876b0333.js",
+    "static/js/488.c762634e.chunk.js": "/vending-machine/static/js/488.c762634e.chunk.js",
+    "static/media/logo.png": "/vending-machine/static/media/logo.218fac0e2d59d37167b9.png",
+    "index.html": "/vending-machine/index.html",
+    "main.d1208d0b.css.map": "/vending-machine/static/css/main.d1208d0b.css.map",
+    "main.876b0333.js.map": "/vending-machine/static/js/main.876b0333.js.map",
+    "488.c762634e.chunk.js.map": "/vending-machine/static/js/488.c762634e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1208d0b.css",
+    "static/js/main.876b0333.js"
+  ]
+}
