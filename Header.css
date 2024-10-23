@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #34495e; /* Darker shade for header */
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo img {
+  height: 60px; /* Slightly larger logo */
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 30px; /* Increased gap for better spacing */
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s; /* Transition for hover effect */
+}
+
+nav ul li a:hover {
+  color: #1abc9c; /* Change color on hover */
+  text-decoration: underline;
+}
